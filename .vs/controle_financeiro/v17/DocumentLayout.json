@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael Stein\\Documents\\GitHub\\controle_financeiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428B42C1-CDD8-4C66-A6E2-F54DAE493DF6}|controle_financeiro.csproj|c:\\users\\rafael stein\\documents\\github\\controle_financeiro\\view\\receitas\\cobrancasui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{428B42C1-CDD8-4C66-A6E2-F54DAE493DF6}|controle_financeiro.csproj|solutionrelative:view\\receitas\\cobrancasui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CobrancasUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafael Stein\\Documents\\GitHub\\controle_financeiro\\view\\receitas\\CobrancasUI.cs",
+              "RelativeDocumentMoniker": "view\\receitas\\CobrancasUI.cs",
+              "ToolTip": "C:\\Users\\Rafael Stein\\Documents\\GitHub\\controle_financeiro\\view\\receitas\\CobrancasUI.cs [Design]",
+              "RelativeToolTip": "view\\receitas\\CobrancasUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:30:04.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
